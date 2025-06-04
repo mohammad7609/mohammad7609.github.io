@@ -1,0 +1,17 @@
+/* Add CSS styles for your web site here and use them in index.html. */
+body {
+    background-color: rgb(54, 218, 201);
+}
+
+#sahiharabic {
+    text-align: center;
+    font-size: xxx-large;
+}
+
+ body {
+    font-family: century;
+}
+
+  body {
+    font-size: large;
+  }
