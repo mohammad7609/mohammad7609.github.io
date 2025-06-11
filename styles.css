@@ -1,7 +1,7 @@
 /* Add CSS styles for your web site here and use them in index.html. */
 
 body {
-    background-color: #f0c929;
+    background: #f0c929;
 }
 
  body {
@@ -23,7 +23,7 @@ table, th, td {
 button {
     width: 100%;
 }
-
+ 
 button {
     border: none;
 }
@@ -69,6 +69,7 @@ hr {
 
 #btnA1 {
     background-color:  #595a4f;
+    color:#ffd700
 }
 
 #tblA1 {
@@ -101,15 +102,15 @@ hr {
 }
 
 #btnA2 {
-    background-color: #72bed4;
-    border: none;
+    background-color:  #595a4f;
+    color:#ffd700
 }
 
 #tblA2 {
     padding: 5px 10px;
     font-size: 18px;
-    background-color: #72bed4;
-    color: black;
+    background-color: #595a4f;
+    color: #ffd700;
     border: none;
     border-radius:10px;
     cursor: pointer;
@@ -135,15 +136,15 @@ hr {
 }
 
 #btnA3 {
-    background-color: #72bed4;
-    border: none;
+    background-color:  #595a4f;
+    color:#ffd700
 }
 
 #tblA3 {
     padding: 5px 10px;
     font-size: 18px;
-    background-color: #72bed4;
-    color: black;
+    background-color: #595a4f;
+    color: #ffd700;
     border: none;
     border-radius:10px;
     cursor: pointer;
@@ -168,15 +169,15 @@ hr {
 }
 
 #btnA4 {
-    background-color: #72bed4;
-    border: none;
+    background-color:  #595a4f;
+    color:#ffd700;
 }
 
 #tblA4 {
     padding: 5px 10px;
     font-size: 18px;
-    background-color: #72bed4;
-    color: black;
+    background-color: #595a4f;
+    color: #ffd700;
     border: none;
     border-radius:10px;
     cursor: pointer;
@@ -201,15 +202,15 @@ hr {
 }
 
 #btnA5 {
-    background-color: #72bed4;
-    border: none;
+    background-color:  #595a4f;
+    color:#ffd700;
 }
 
 #tblA5 {
     padding: 5px 10px;
     font-size: 18px;
-    background-color: #72bed4;
-    color: rgb(0, 0, 0);
+    background-color: #595a4f;
+    color: #ffd700;
     border: none;
     border-radius:10px;
     cursor: pointer;
@@ -235,15 +236,15 @@ hr {
 }
 
 #btnA6 {
-    background-color: #72bed4;
-    border: none;
+    background-color:  #595a4f;
+    color:#ffd700;
 }
 
 #tblA6 {
     padding: 5px 10px;
     font-size: 18px;
-    background-color: #72bed4;
-    color: rgb(0, 0, 0);
+    background-color: #595a4f;
+    color: #ffd700;
     border: none;
     border-radius:10px;
     cursor: pointer;
@@ -269,15 +270,15 @@ hr {
 }
 
 #btnA7 {
-    background-color: #72bed4;
-    border: none;
+    background-color:  #595a4f;
+    color:#ffd700;
 }
 
 #tblA7 {
     padding: 5px 10px;
     font-size: 18px;
-    background-color: #72bed4;
-    color: rgb(0, 0, 0);
+    background-color: #595a4f;
+    color: #ffd700;
     border: none;
     border-radius:10px;
     cursor: pointer;
@@ -303,15 +304,15 @@ hr {
 }
 
 #btnA8 {
-    background-color: #72bed4;
-    border: none;
+    background-color:  #595a4f;
+    color:#ffd700;
 }
 
 #tblA8 {
     padding: 5px 10px;
     font-size: 18px;
-    background-color: #72bed4;
-    color: rgb(0, 0, 0);
+    background-color: #595a4f;
+    color: #ffd700;
     border: none;
     border-radius:10px;
     cursor: pointer;
@@ -337,15 +338,15 @@ hr {
 }
 
 #btnA9 {
-    background-color: #72bed4;
-    border: none;
+    background-color:  #595a4f;
+    color:#ffd700;
 }
 
 #tblA9 {
     padding: 5px 10px;
     font-size: 18px;
-    background-color: #72bed4;
-    color: rgb(0, 0, 0);
+    background-color: #595a4f;
+    color: #ffd700;
     border: none;
     border-radius:10px;
     cursor: pointer;
@@ -371,15 +372,15 @@ hr {
 }
 
 #btnA10 {
-    background-color: #72bed4;
-    border: none;
+    background-color:  #595a4f;
+    color:#ffd700;
 }
 
 #tblA10 {
     padding: 5px 10px;
     font-size: 18px;
-    background-color: #72bed4;
-    color: rgb(0, 0, 0);
+    background-color: #595a4f;
+    color: #ffd700;
     border: none;
     border-radius:10px;
     cursor: pointer;
@@ -405,15 +406,15 @@ hr {
 }
 
 #btnA11 {
-    background-color: #72bed4;
-    border: none;
+    background-color:  #595a4f;
+    color:#ffd700;
 }
 
 #tblA11 {
     padding: 5px 10px;
     font-size: 18px;
-    background-color: #72bed4;
-    color: rgb(0, 0, 0);
+    background-color: #595a4f;
+    color: #ffd700;
     border: none;
     border-radius:10px;
     cursor: pointer;
@@ -429,15 +430,28 @@ hr {
 
 /* button A11 and table A11*/
 
+
+
+
+
+
+
+
+
+
+
+
+
+
   .navbar {
     overflow: hidden;
-    background-color: #474747;
+    background-color: #595a4f;
   }
 
   .navbar a {
     float: left;
     display: block;
-    color: #f2f2f2;
+    color: #ffd700;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
@@ -445,21 +459,6 @@ hr {
   }
 
   .navbar a:hover {
-    background: #1cbbbb;
-    color: rgb(0, 0, 0);
-
-  }
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
+    background: #ddd;
+    color: black;
+  } 
