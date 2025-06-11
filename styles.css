@@ -1,7 +1,7 @@
 /* Add CSS styles for your web site here and use them in index.html. */
 
-#btnA1 {
-    border-style: double;
+body {
+    background: linear-gradient(to top, #2e8b57, #f0c929);
 }
 
  body {
@@ -49,6 +49,10 @@ h4 {
     font-size: x-large;
 }
 
+hr {
+    border-color: #000000d4;
+}
+
 /* for all */
 
 #btnA1 {
@@ -60,15 +64,14 @@ h4 {
 }
 
 #btnA1 {
-    background-color: #72bed4;
-    border: none;
+    background-color:  #595a4f;
 }
 
 #tblA1 {
     padding: 5px 10px;
     font-size: 18px;
-    background-color: #72bed4;
-    color: rgb(0, 0, 0);
+    background-color: #595a4f;
+    color: #ffd700;
     border: none;
     border-radius:10px;
     cursor: pointer;
@@ -443,3 +446,16 @@ h4 {
 
   }
 
+
+
+
+
+
+
+
+
+
+
+
+
+  
