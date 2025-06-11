@@ -23,7 +23,11 @@ table, th, td {
 button {
     width: 100%;
 }
- 
+
+button {
+    border: none;
+}
+
 #sahihenglish {
     text-align: left;
     font-size: xx-large;
