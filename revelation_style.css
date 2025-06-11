@@ -1,6 +1,6 @@
 /* Add CSS styles for your web site here and use them in index.html. */
 body {
-    background-color: rgb(54, 218, 201);
+    background-color: rgb(48, 237, 124);
 }
 
 #sahiharabic {
@@ -9,9 +9,13 @@ body {
 }
 
  body {
-    font-family: century;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
   body {
     font-size: large;
   }
+
+hr {
+  border-color: rgb(0, 0, 0);
+}
