@@ -459,6 +459,6 @@ hr {
   }
 
   .navbar a:hover {
-    background: #ddd;
-    color: black;
+    transform: translateY(2px);
   } 
+
