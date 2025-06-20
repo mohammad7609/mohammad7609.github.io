@@ -26,6 +26,7 @@ hr {
  .navbar {
     overflow: hidden;
     background-color: #595a4f;
+    
   }
 
   .navbar a {
@@ -39,6 +40,15 @@ hr {
   }
 
   .navbar a:hover {
-    background: #ddd;
-    color: rgb(0, 0, 0);
+    transform: translateY(2px);
   } 
+
+#hom {
+  width: 46%;
+}
+
+#nexb {
+   width: 45%;
+}
+
+
