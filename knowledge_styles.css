@@ -1,7 +1,6 @@
 /* Add CSS styles for your web site here and use them in index.html. */
-
 body {
-    background-color:  #f0c929;
+    background-color: #f0c929;
 }
 
 #sahiharabic {
@@ -15,6 +14,7 @@ body {
  body {
     font-family: century;
 }
+
   body {
     font-size: large;
   }
@@ -22,3 +22,37 @@ body {
 hr {
   border-color: rgb(0, 0, 0);
 }
+
+ .navbar {
+    overflow: hidden;
+    background-color: #595a4f;
+    
+  }
+
+  .navbar a {
+    float: left;
+    display: block;
+    color: #ffd700;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+  .navbar a:hover {
+    transform: translateY(2px);
+  } 
+
+#perb {
+  width: 30%;
+}
+
+#hom {
+  width: 25%;
+}
+
+#nexb {
+   width: 30%;
+}
+
+
