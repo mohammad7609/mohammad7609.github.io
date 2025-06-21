@@ -1,32 +1,451 @@
 /* Add CSS styles for your web site here and use them in index.html. */
+
 body {
-    background-color: #f0c929;
-}
-
-#sahiharabic {
-    text-align: center;
-}
-
-#sahiharabic {
-    font-size: xxx-large;
+    background: #f0c929;
 }
 
  body {
     font-family: century;
 }
 
-  body {
-    font-size: large;
-  }
-
-hr {
-  border-color: rgb(0, 0, 0);
+table, th, td {
+    borde:1px solid rgb(0, 0, 0);
 }
 
- .navbar {
+table, th, td {
+    width: 75%;
+}
+
+table, th, td {
+    width: 33%;
+}
+
+button {
+    width: 100%;
+}
+ 
+button {
+    border: none;
+}
+
+#sahihenglish {
+    text-align: left;
+    font-size: xx-large;
+}
+
+#imambukhari {
+    color: rgb(0, 0, 0);
+}
+
+h4 {
+    font-size: 15px;
+}
+
+#tblsahih, th, td {
+    text-align: right;
+}
+
+#thsahih {
+    width: 50%;
+}
+
+#thsahiharabic {
+    font-size: x-large;
+}
+
+hr {
+    border-color: #000000d4;
+}
+
+/* for all */
+
+#btnA1 {
+    text-align: start;
+}
+
+#to7 {
+    text-align: center;
+}
+
+#btnA1 {
+    background-color:  #595a4f;
+    color:#ffd700
+}
+
+#tblA1 {
+    padding: 5px 10px;
+    font-size: 18px;
+    background-color: #595a4f;
+    color: #ffd700;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+
+#tblA1:hover {
+    transform: translateY(1px);
+    box-shadow: 0 5px 6px rgba(10, 8, 8, 0.4);
+ }  
+
+ /* button A1 and table A1*/
+
+
+#btnA2 {
+    text-align: start;
+}
+
+#to58 {
+    text-align: center;
+}
+
+#btnA2 {
+    background-color:  #595a4f;
+    color:#ffd700
+}
+
+#tblA2 {
+    padding: 5px 10px;
+    font-size: 18px;
+    background-color: #595a4f;
+    color: #ffd700;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 5px 6px rgba(0,0,0,0.2);
+    position: relative;
+  }
+
+#tblA2:hover {
+    transform: translateY(1px);
+    box-shadow: 0 5px 6px rgba(0,0,0,0.4);
+ }  
+
+/* button A2 and table A2*/
+
+
+#btnA3 {
+    text-align: start;
+}
+
+#to134 {
+    text-align: center;
+}
+
+#btnA3 {
+    background-color:  #595a4f;
+    color:#ffd700
+}
+
+#tblA3 {
+    padding: 5px 10px;
+    font-size: 18px;
+    background-color: #595a4f;
+    color: #ffd700;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 5px 6px rgba(0,0,0,0.2);
+    position: relative;
+  }
+
+#tblA3:hover {
+    transform: translateY(1px);
+    box-shadow: 0 5px 6px rgba(0,0,0,0.4);
+ }  
+
+/* button A3 and table A3*/
+
+#btnA4 {
+    text-align: start;
+}
+
+#to247 {
+    text-align: center;
+}
+
+#btnA4 {
+    background-color:  #595a4f;
+    color:#ffd700;
+}
+
+#tblA4 {
+    padding: 5px 10px;
+    font-size: 18px;
+    background-color: #595a4f;
+    color: #ffd700;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 5px 6px rgba(0,0,0,0.2);
+    position: relative;
+  }
+
+#tblA4:hover {
+    transform: translateY(1px);
+    box-shadow: 0 5px 6px rgba(0,0,0,0.4);
+ }  
+
+ /* button A4 and table A4*/
+
+#btnA5 {
+    text-align: start;
+}
+
+#to293 {
+    text-align: center;
+}
+
+#btnA5 {
+    background-color:  #595a4f;
+    color:#ffd700;
+}
+
+#tblA5 {
+    padding: 5px 10px;
+    font-size: 18px;
+    background-color: #595a4f;
+    color: #ffd700;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+
+#tblA5:hover {
+    transform: translateY(1px);
+    box-shadow: 0 5px 6px rgba(10, 8, 8, 0.4);
+ }  
+
+/* button A5 and table A5*/
+
+
+#btnA6 {
+    text-align: start;
+}
+
+#to333 {
+    text-align: center;
+}
+
+#btnA6 {
+    background-color:  #595a4f;
+    color:#ffd700;
+}
+
+#tblA6 {
+    padding: 5px 10px;
+    font-size: 18px;
+    background-color: #595a4f;
+    color: #ffd700;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+
+#tblA6:hover {
+    transform: translateY(1px);
+    box-shadow: 0 5px 6px rgba(10, 8, 8, 0.4);
+ }  
+
+/* button A6 and table A6*/
+
+
+#btnA7 {
+    text-align: start;
+}
+
+#to348 {
+    text-align: center;
+}
+
+#btnA7 {
+    background-color:  #595a4f;
+    color:#ffd700;
+}
+
+#tblA7 {
+    padding: 5px 10px;
+    font-size: 18px;
+    background-color: #595a4f;
+    color: #ffd700;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+
+#tblA7:hover {
+    transform: translateY(1px);
+    box-shadow: 0 5px 6px rgba(10, 8, 8, 0.4);
+ }  
+
+/* button A7 and table A7*/
+
+
+#btnA8 {
+    text-align: start;
+}
+
+#to520 {
+    text-align: center;
+}
+
+#btnA8 {
+    background-color:  #595a4f;
+    color:#ffd700;
+}
+
+#tblA8 {
+    padding: 5px 10px;
+    font-size: 18px;
+    background-color: #595a4f;
+    color: #ffd700;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+
+#tblA8:hover {
+    transform: translateY(1px);
+    box-shadow: 0 5px 6px rgba(10, 8, 8, 0.4);
+ }  
+
+/* button A8 and table A8*/
+
+
+#btnA9 {
+    text-align: start;
+}
+
+#to602 {
+    text-align: center;
+}
+
+#btnA9 {
+    background-color:  #595a4f;
+    color:#ffd700;
+}
+
+#tblA9 {
+    padding: 5px 10px;
+    font-size: 18px;
+    background-color: #595a4f;
+    color: #ffd700;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+
+#tblA9:hover {
+    transform: translateY(1px);
+    box-shadow: 0 5px 6px rgba(10, 8, 8, 0.4);
+ }  
+
+/* button A9 and table A9*/
+
+
+#btnA10 {
+    text-align: start;
+}
+
+#to875 {
+    text-align: center;
+}
+
+#btnA10 {
+    background-color:  #595a4f;
+    color:#ffd700;
+}
+
+#tblA10 {
+    padding: 5px 10px;
+    font-size: 18px;
+    background-color: #595a4f;
+    color: #ffd700;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+
+#tblA10:hover {
+    transform: translateY(1px);
+    box-shadow: 0 5px 6px rgba(10, 8, 8, 0.4);
+ }  
+
+/* button A10 and table A10*/
+
+
+#btnA11 {
+    text-align: start;
+}
+
+#to941 {
+    text-align: center;
+}
+
+#btnA11 {
+    background-color:  #595a4f;
+    color:#ffd700;
+}
+
+#tblA11 {
+    padding: 5px 10px;
+    font-size: 18px;
+    background-color: #595a4f;
+    color: #ffd700;
+    border: none;
+    border-radius:10px;
+    cursor: pointer;
+    transition: all 0.2s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2);
+    position: relative;
+  }
+
+#tblA11:hover {
+    transform: translateY(1px);
+    box-shadow: 0 5px 6px rgba(10, 8, 8, 0.4);
+ }  
+
+/* button A11 and table A11*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  .navbar {
     overflow: hidden;
     background-color: #595a4f;
-    
   }
 
   .navbar a {
@@ -42,13 +461,4 @@ hr {
   .navbar a:hover {
     transform: translateY(2px);
   } 
-
-#hom {
-  width: 46%;
-}
-
-#nexb {
-   width: 45%;
-}
-
 
