@@ -1,4 +1,5 @@
 /* Add CSS styles for your web site here and use them in index.html. */
+
 body {
     background-color: #f0c929;
 }
@@ -54,5 +55,50 @@ hr {
 #nexb {
    width: 30%;
 }
+
+
+
+#navbar {
+    overflow: hidden;
+    background-color: #595a4f;
+    border: none;
+  }
+
+#navbar {
+    float: left;
+    display: block;
+    color: #ffd700;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+#navbar:hover {
+    transform: translateY(2px);
+  } 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
