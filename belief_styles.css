@@ -43,12 +43,17 @@ hr {
     transform: translateY(2px);
   } 
 
+
+#perb {
+  width: 30%;
+}
+
 #hom {
-  width: 46%;
+  width: 25%;
 }
 
 #nexb {
-   width: 45%;
+   width: 30%;
 }
 
 
