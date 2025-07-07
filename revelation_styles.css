@@ -55,13 +55,13 @@ hr {
 
 
 
-#sho/hid {
+#shohid {
   overflow: hidden;
   background-color: #595a4f;
   border: none;
 }
 
-#sho/hid {
+#shohid {
   float: left;
   display: block;
   color: #ffd700;
@@ -71,6 +71,6 @@ hr {
   font-size: 17px;
 }
 
-#sho/hid:hover {
+#shohid:hover {
   transform: translateY(2px);
 } 
