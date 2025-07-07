@@ -1,5 +1,4 @@
 /* Add CSS styles for your web site here and use them in index.html. */
-
 body {
     background-color: #f0c929;
 }
@@ -44,39 +43,37 @@ hr {
     transform: translateY(2px);
   } 
 
-#perb {
-  width: 30%;
-}
-
 #hom {
-  width: 25%;
+  width: 46%;
 }
 
 #nexb {
-   width: 30%;
+   width: 45%;
 }
 
 
 
-#navbar {
-    overflow: hidden;
-    background-color: #595a4f;
-    border: none;
-  }
 
-#navbar {
-    float: left;
-    display: block;
-    color: #ffd700;
-    text-align: center;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-  }
 
-#navbar:hover {
-    transform: translateY(2px);
-  } 
+#sho/hid {
+  overflow: hidden;
+  background-color: #595a4f;
+  border: none;
+}
+
+#sho/hid {
+  float: left;
+  display: block;
+  color: #ffd700;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#sho/hid:hover {
+  transform: translateY(2px);
+} 
 
 
 
