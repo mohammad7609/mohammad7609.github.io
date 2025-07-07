@@ -52,3 +52,25 @@ hr {
 }
 
 
+
+
+
+#sho/hid {
+  overflow: hidden;
+  background-color: #595a4f;
+  border: none;
+}
+
+#sho/hid {
+  float: left;
+  display: block;
+  color: #ffd700;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+#sho/hid:hover {
+  transform: translateY(2px);
+} 
